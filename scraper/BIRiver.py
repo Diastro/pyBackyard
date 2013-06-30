@@ -13,7 +13,7 @@ import urllib2
 from bs4 import BeautifulSoup
 
 def main():
-		#WebRequest - data parsing
+	#WebRequest - data parsing
         url = "http://www.businessinsider.com"
         data = urllib2.urlopen(url).read()
         bs = BeautifulSoup(data)
