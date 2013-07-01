@@ -1,12 +1,12 @@
-#title			:BIRiver.py
-#descripion		:Scrapes the BusinessInsider top new "River" title
-#author			:David Albertson
-#date			:June 25
-#usage			:python BIRiver.py
+#title		:BIRiver.py
+#descripion	:Scrapes the BusinessInsider top new "River" title
+#author		:David Albertson
+#date		:June 25
+#usage		:python BIRiver.py
+#requirements   :BeautifulSoup
 #python_version	:python 2.7.3
 #==============================================================================
 
-#Module import
 import sys
 import urllib2
 

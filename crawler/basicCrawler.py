@@ -2,7 +2,7 @@
 #descripion     :Scrapes url from the originDomain and crawls that list of domain
 #author         :David Albertson
 #date           :June 30
-#usage          :python BIRiver.py
+#usage          :python basicCrawler.py
 #requirements   :BeautifulSoup
 #python_version :python 2.7.3
 #==============================================================================

@@ -1,8 +1,9 @@
-#title			:BIRiver.py
-#descripion		:Scrapes the BusinessInsider top new "River" title
+#title			:urbanDictionary.py
+#descripion		:Gets fun data from UrbanDictionary
 #author			:David Albertson
-#date			:June 25
-#usage			:python BIRiver.py
+#date			:June 30
+#usage			:python urbanDictionary.py
+#requirements   :BeautifulSoup
 #python_version	:python 2.7.3
 #==============================================================================
 
